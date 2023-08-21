@@ -23,7 +23,9 @@
   },
   "course_title": "Workshop I",
   "course_description": "This course fulfills the first half of the Comparative Media Studies workshop sequence requirement for entering graduate students. The workshop sequence provides an opportunity for a creative, hands-on project development experience and emphasizes intellectual growth as well as the acquisition of technical skills. The course is designed to provide practical, hands-on experience to complement students' theoretical studies.\n",
-  "department_numbers": [],
+  "department_numbers": [
+    "CMS-W"
+  ],
   "extra_course_numbers": "",
   "primary_course_number": "CMS.950",
   "course_image_thumbnail": {
@@ -33,6 +35,6 @@
   "learning_resource_types": [
     "Media Assignments"
   ],
-  "site_uid": "a272b640-5686-4560-a27c-8fc01caf6cfe",
+  "site_uid": "187c9c77-7aae-4912-8490-b4abce3ea450",
   "title": "Course Metadata"
 }
