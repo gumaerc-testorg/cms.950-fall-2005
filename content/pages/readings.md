@@ -12,12 +12,12 @@ Readings from other first - year CMS classes on theory complement workshop activ
 
 Block, Friedrich W., Christiane Heibach, and Karen Wenz, eds. *p0es1s: The Aesthetics of Digital Poetry*. Ostfildern-Ruit, Germany: Hatje Cantz Verlag, 2004. ISBN: 9783775713450.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262522793) Bolter, Jay, and Richard Grusin. [*Remediation: Understanding New Media*](https://mitpress.mit.edu/9780262522793). Cambridge, MA: MIT Press, 1999. ISBN: 9780262522793.
+{{% resource_link "5fd4df25-47fe-418b-91c3-66d55b72f4b4" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Bolter, Jay, and Richard Grusin. {{% resource_link "5fd4df25-47fe-418b-91c3-66d55b72f4b4" "*Remediation: Understanding New Media*" %}}. Cambridge, MA: MIT Press, 1999. ISBN: 9780262522793.
 
 Kac, Eduardo, ed. *New Media Poetry: Poetic Innovation and New Technologies*. Providence, RI: Visible Language, 1996.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262133746) Manovich, Lev. [*The Language of New Media*](https://mitpress.mit.edu/9780262133746). Cambridge, MA: MIT Press, 2001, 2002. ISBN: 9780262133746.
+{{% resource_link "43755aca-4402-4ddd-b2a8-c039722e8c14" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Manovich, Lev. {{% resource_link "43755aca-4402-4ddd-b2a8-c039722e8c14" "*The Language of New Media*" %}}. Cambridge, MA: MIT Press, 2001, 2002. ISBN: 9780262133746.
 
 Mathews, Harry, and Alastair Brotchie, eds. *Oulipo Compendium*. London, UK: Atlas Press, 1998. ISBN: 1900565188.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262232272) Wardrip-Fruin, Noah, and Nick Montfort, eds. [*The New Media Reader*](https://mitpress.mit.edu/9780262232272). Cambridge, MA: MIT Press, 2003. ISBN: 9780262232272.
+{{% resource_link "83c1d3ed-9c56-4dc1-a13b-2b0b5d62c694" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Wardrip-Fruin, Noah, and Nick Montfort, eds. {{% resource_link "83c1d3ed-9c56-4dc1-a13b-2b0b5d62c694" "*The New Media Reader*" %}}. Cambridge, MA: MIT Press, 2003. ISBN: 9780262232272.
