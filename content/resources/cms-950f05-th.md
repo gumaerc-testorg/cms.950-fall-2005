@@ -7,8 +7,7 @@ file_size: 7166
 file_type: image/jpeg
 image_metadata:
   caption: The FBI's digital video authenticator with camcorder. Image courtesy of
-    the {{% resource_link "05f89f4a-ed9f-48ca-8eae-a5ae88069268" "Federal Bureau of
-    Investigation" %}}.
+    the [Federal Bureau of Investigation](http://www.fbi.gov/).
   credit: ''
   image-alt: The FBI's digital video authenticator with camcorder.
 learning_resource_types: []
