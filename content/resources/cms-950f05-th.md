@@ -2,7 +2,7 @@
 content_type: resource
 description: The FBI's digital video authenticator with camcorder. (Image courtesy
   of the Federal Bureau of Investigation.)
-file: /ol-ocw-studio-app/courses/cms-950-workshop-i-fall-2005/8688212872b464cc12357cb7a0ba5a78_cms-950f05-th.jpg
+file: /courses/cms-950-workshop-i-fall-2005/8688212872b464cc12357cb7a0ba5a78_cms-950f05-th.jpg
 file_size: 7166
 file_type: image/jpeg
 image_metadata:
