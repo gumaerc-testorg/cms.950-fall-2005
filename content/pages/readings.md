@@ -8,7 +8,7 @@ ocw_type: CourseSection
 title: Readings
 uid: 75795c86-755e-0ee8-716c-7b1803fea1fa
 ---
-Readings from other first - year CMS classes on theory complement workshop activities. In addition, resource pages for [21W.780](/courses/21w-780-communicating-in-technical-organizations-spring-2005) (all available on OCW) will provide valuable examples and other source material as needed.
+Readings from other first - year CMS classes on theory complement workshop activities. In addition, resource pages for [21W.780](https://ocw.mit.edu/courses/21w-780-communicating-in-technical-organizations-fall-2001/) (all available on OCW) will provide valuable examples and other source material as needed.
 
 Block, Friedrich W., Christiane Heibach, and Karen Wenz, eds. *p0es1s: The Aesthetics of Digital Poetry*. Ostfildern-Ruit, Germany: Hatje Cantz Verlag, 2004. ISBN: 9783775713450.
 
